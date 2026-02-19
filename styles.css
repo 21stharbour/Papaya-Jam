@@ -1,5 +1,5 @@
 body {
-    background-image: url("img/pap.jpg");
+    background-image: url(img/pap.jpg);
     background-size: cover;
     background-attachment: fixed;
     margin: 0;
@@ -79,7 +79,7 @@ header {
 }
 
 .dsk {
-    background-image: url("img/OIP.webp");
+    background-image: url(img/OIP.webp);
     background-size: contain;
     border: green solid 4px;
 }
